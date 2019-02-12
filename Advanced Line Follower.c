@@ -15,7 +15,7 @@ INTRODUCTION
 a 393 motor to raise and lower the claw, and a 393 motor to open and close the claw. Three line follower sensors are on the front and a bump switch
 This program was written with the intention of real time toggling of the power status, and the driving mode, switching between manual
 driving mode (joystick) and automatic driving mode (line following.) The power can be toggled with either the bump switch or a button on the
-joystick. The driving mode is Toggl able with a button on the joystick. As the infrastructure already existed, a calibration button on the
+joystick. The driving mode is Toggleable with a button on the joystick. As the infrastructure already existed, a calibration button on the
 joystick was added because no extra work was needed to add this useful feature.
 	To accomplish the above objectives, it was necessary to use the advanced programing method of multi-tasking. Functions were also heavily
 used due to the fact that functions make the programing much easier to write and read.
